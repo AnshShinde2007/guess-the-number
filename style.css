@@ -1,7 +1,16 @@
+.main-container{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
 .container {
-    padding: 20%;
+text-decoration: double;
+position: relative;
+align-items: center;
+align-self: center;
 }
 
 .result {
-    padding: 5%;
+    padding:auto;
+
 }
